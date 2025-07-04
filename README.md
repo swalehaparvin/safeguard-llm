@@ -2,7 +2,7 @@
 
 SafeGuardLLM is a comprehensive cybersecurity evaluation framework for systematically assessing Large Language Model (LLM) vulnerabilities. The application provides advanced testing capabilities to assess LLM vulnerabilities across multiple security dimensions including prompt injection, jailbreaking, code interpreter abuse, and data extraction attacks.
 
-#Link to website: https://safeguard-llm.replit.app/
+Link to website: https://safeguard-llm.replit.app/
 
 ## Features
 
